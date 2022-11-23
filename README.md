@@ -3,17 +3,16 @@
 
 ```javascript
 const App = {
-    code: ["C#", "Javascript", "Lua", "Html", "Css" ],
-    askMeAbout: ["fivem", "web dev", "tech", "app dev", "music", "full stack"],
+    code: ["C#", "Javascript", "Typescript", "Lua" ],
+    askMeAbout: ["fivem", "web dev", "music", "games"],
     technologies: {
        frontEnd: ["React", "Next"],
-       mobileApp: ["React Native", "Expo"],
        backEnd: {
             js: ["node", "express"],
-            c#: ["Asp Net Core, "Entity Framework"],
+            csharp: ["Asp Net Core, "Entity Framework"],
         },
-        databases: ["MySql", "sqlite"],
-        misc: ["Fivem"]
+        databases: ["MYSQL", "SQLITE", "SQL SERVER"],
+        misc: ["GTA Modding"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
