@@ -17,6 +17,5 @@ const App = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-[![Oddo's github stats](https://github-readme-stats.vercel.app/api?username=OddoAkbar&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/OddoAkbar)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love Code, Music and Games!</b> :)</em>
